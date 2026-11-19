@@ -57,7 +57,7 @@ def contar_aprobados(calificaciones):
 
 
 # ----- programa principal -----
-print("===== REGISTRO DE CALIFICACIONES =====")
+print(" REGISTRO DE CALIFICACIONES ")
 
 lista = registrar_calificaciones()
 
